@@ -1,6 +1,9 @@
 # KARINAxBOT
 -> Bot Assistant untuk manajemen produk di e-katalog online https://e-katalog.lkpp.go.id/
 
+> Link youtube :
+> `https://youtu.be/6fUJGCWrcig`
+
 Fitur seperti dibawah : 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
