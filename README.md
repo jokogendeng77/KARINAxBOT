@@ -41,4 +41,8 @@ CARA INSTALL :
 - Pilih Fitur yang diinginkan
 - Selesai
 
+Kontak ? :
+> WA : https://wa.me/6285732740006
+> Grup : https://chat.whatsapp.com/IfchrFKAFtsGmDsGQNrOhN
+
 Disclaimer : `Saya tidak bertanggung jawab apabila terjadi masalah pada akun, fasilitas ini hanya untuk membantu dalam hal Manajemen Akun & Produk di E-Katalog. Fasilitas ini tidak bekerjasama atau beraffliasi dengan platform E-Katalog. Dengan menggunakan fasilitas ini pengguna bertanggung jawab terhadap akun dan tindakannya.`
